@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PasswordAppDemo</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="congrats_you_are_signed_in">Congrats you are signed in!!</string>
+</resources>
